@@ -16,3 +16,5 @@
 - WebSockets stats exposed at /stats
 - WebSocket security with Spring Security
 - Spring Session integration
+# TO DO LIST
+-checkbox
